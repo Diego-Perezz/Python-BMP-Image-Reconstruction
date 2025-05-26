@@ -1,4 +1,4 @@
-# # Python BMP Image Reconstruction
+# Python BMP Image Reconstruction
 
 This Python project explores problem decomposition, system design, data structures, and testing through a jungle-themed adventure. Key challenges include decoding a secret message using a Caesar cipher, fixing code logic, optimizing a virtual raft for river crossing, and reconstructing a shredded BMP image based on pixel similarity.
 
